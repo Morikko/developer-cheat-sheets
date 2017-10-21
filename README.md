@@ -1,6 +1,8 @@
 # developer-cheat-sheets
 Cheat sheets I am using for developing, references and personal notes.
 
+Links are internet only Cheat Sheets, whereas the others one are in PDF in the related directories.
+
 - C/C++
 - Database
   - MySQL
@@ -9,6 +11,9 @@ Cheat sheets I am using for developing, references and personal notes.
 - Java
 - JavaScript
   - NodeJS
+  - Plotly
+  - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+  - [JS CheatSheet Interactive](http://htmlcheatsheet.com/js/)
 - Linux
   - Bash
   - Command Lines
@@ -25,6 +30,9 @@ Cheat sheets I am using for developing, references and personal notes.
   - Scikit-Learn
   - PySpark
   - Keras
+  - Plotly
 - Regular Expressions
 - Web
   - CSS
+  - [CSS CheatSheet Interactive](http://htmlcheatsheet.com/css/)
+  - [HTML CheatSheet Interactive](http://htmlcheatsheet.com/)
