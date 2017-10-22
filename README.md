@@ -3,6 +3,7 @@ Cheat sheets I am using for developing, references and personal notes.
 
 Links are internet only Cheat Sheets, whereas the others one are in PDF in the related directories.
 
+- Atom editor
 - C/C++
 - Database
   - MySQL
@@ -19,6 +20,7 @@ Links are internet only Cheat Sheets, whereas the others one are in PDF in the r
   - Command Lines
   - Make
   - Vim/NerdTree
+  - Compilation Chain
 - Python
   - Numpy
   - Scipy
@@ -31,6 +33,7 @@ Links are internet only Cheat Sheets, whereas the others one are in PDF in the r
   - PySpark
   - Keras
   - Plotly
+  - OpenCV
 - Regular Expressions
 - Web
   - CSS
