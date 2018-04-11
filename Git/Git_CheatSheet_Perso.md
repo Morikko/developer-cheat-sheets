@@ -1,5 +1,10 @@
 # Git
 
+### Get commit history on a file
+```bash
+git log --follow filename
+```
+
 ### Take a previous version of a file
 ```bash
 git checkout <commit_id> <file/to/restore>
